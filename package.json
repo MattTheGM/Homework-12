@@ -1,0 +1,30 @@
+{
+  "name": "Homework-12",
+  "version": "1.0.0",
+  "description": "Homework-12",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattTheGM/Homework-12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattTheGM/Homework-12/issues"
+  },
+  "homepage": "https://github.com/MattTheGM/Homework-12#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "console.table": "^0.10.0",
+    "cors": "^2.8.5",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.4"
+  }
+}
